@@ -1,0 +1,25 @@
+body{
+    background-color: #eef0ec;
+    color: #456268;
+    margin: 50px 0px 20px 0px;
+}
+.itallic{
+    font-style: italic;
+    color: #567076;
+}
+
+.marginc{
+    margin: 20px 20px 20px 20px;
+}
+#male{
+    margin: 0px 5px 0px 0px;
+}
+#female{
+    margin: 0px 5px 0px 10px;
+}
+.food{
+    margin-right: 5px;
+}
+button{
+    color: #456268;
+}
